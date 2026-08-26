@@ -1,4 +1,4 @@
-# Projeto da Dupla Fantastica 1
+# Projeto da Dupla Fantastica 2
 
 ## Integrante 1
 - Nome: Aluno Gabriel Fernandes
