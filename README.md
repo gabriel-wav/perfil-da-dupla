@@ -1,5 +1,5 @@
 # Projeto da Dupla em Branches
-gabriel-wav
+perfil: gabriel-wav
 
 # Projeto da Dupla Fantastica 2
 
