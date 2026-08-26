@@ -1,4 +1,5 @@
-# Projeto da Dupla Fantastica 2
+# Perfil Compartilhado do Time
+Fabinh0ne
 
 ## Integrante 1
 - Nome: Aluno Gabriel Fernandes
